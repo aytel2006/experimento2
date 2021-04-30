@@ -1,0 +1,14 @@
+.celda{
+    border:solid 1px;
+    border-color: black;
+    height:4rem;
+    color: #000;
+    background-color: rgb(35, 190, 218);
+}
+
+.celda2{
+   border:solid 1px;
+   border-color: white;
+   background-color: aqua;
+   height: 5rem; 
+}
